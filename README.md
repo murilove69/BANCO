@@ -3,8 +3,6 @@ Criar uma classe conta bancária da qual o atributo saldo é encapsulado e seu v
 
 ## Começando
 
-ETAPA 6
-
 Crie uma classe conta bancária da qual o atributo saldo é encapsulado e seu valor será acessado por meio dos métodos, depósito, saque e consulta.
 
 Para cada depósito deve ser cobrado uma taxa de 1%.
